@@ -1,1 +1,12 @@
 dados/*
+# dados
+dados/*
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Terraform lock
+.terraform.lock.hcl
